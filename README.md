@@ -24,6 +24,6 @@ $ python manage.py runserver
 and the web app is deployed in http://127.0.0.1:8000/
 
 ## Built With
-* [Django] (https://www.djangoproject.com) - The web framework used
-* [chart.js] (https://www.chartjs.org) - JavaScript library for the charts
-* [REST Framework API] (https://www.djangoproject.com) - Web API Builder Used
+* [Django](https://www.djangoproject.com) - The web framework used
+* [chart.js](https://www.chartjs.org) - JavaScript library for the charts
+* [REST Framework API](https://www.djangoproject.com) - Web API Builder Used
